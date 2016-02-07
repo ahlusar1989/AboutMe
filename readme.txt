@@ -29,7 +29,6 @@ Javascript Files:
  - Magnific Popup (http://dimsemenov.com/plugins/magnific-popup/)
  - Fittext (http://fittextjs.com/)
 
---------------------------------------------------------------------------------------------------------- 
 
 
   
