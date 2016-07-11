@@ -11,12 +11,6 @@ Fonts:
 
 Icons:
  - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
-
-Stock Photos and Graphics:
- - UnSplash.com (http://unsplash.com/)
- - Morguefile.com (http://www.morguefile.com/)
- - splitshire.com (http://splitshire.com/)
- - gratisography.com (http://www.gratisography.com/)
  
 Javascript Files:
 
